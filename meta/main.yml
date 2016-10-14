@@ -30,10 +30,11 @@ galaxy_info:
   platforms:
   - name: Ubuntu
     versions:
+      - xenial
 
   galaxy_tags:
-    - acd_cli
-    - Amazon_Drive
+    - acdcli
+    - AmazonDrive
 
 dependencies: []
   # List your role dependencies here, one per line.
